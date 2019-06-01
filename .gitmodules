@@ -1,0 +1,33 @@
+[submodule "packages/clean-js-parcel-pkg"]
+	path = packages/clean-js-parcel-pkg
+	url = git@github.com:edtoken/clean-js-parcel-pkg.git
+[submodule "packages/clean-js-pkg"]
+	path = packages/clean-js-pkg
+	url = git@github.com:edtoken/clean-js-pkg.git
+[submodule "packages/clean-js-webpack-pkg"]
+	path = packages/clean-js-webpack-pkg
+	url = git@github.com:edtoken/clean-js-webpack-pkg.git
+[submodule "packages/clean-react-cra-pkg"]
+	path = packages/clean-react-cra-pkg
+	url = git@github.com:edtoken/clean-react-cra-pkg.git
+[submodule "packages/clean-react-pkg"]
+	path = packages/clean-react-pkg
+	url = git@github.com:edtoken/clean-react-pkg.git
+[submodule "packages/clean-react-typescript-pkg"]
+	path = packages/clean-react-typescript-pkg
+	url = git@github.com:edtoken/clean-react-typescript-pkg.git
+[submodule "packages/clean-vue-cli-pkg"]
+	path = packages/clean-vue-cli-pkg
+	url = git@github.com:edtoken/clean-vue-cli-pkg.git
+[submodule "packages/clean-vue-pkg"]
+	path = packages/clean-vue-pkg
+	url = git@github.com:edtoken/clean-vue-pkg.git
+[submodule "packages/clean-vue-typescript-pkg"]
+	path = packages/clean-vue-typescript-pkg
+	url = git@github.com:edtoken/clean-vue-typescript-pkg.git
+[submodule "clean-js-pkg"]
+	path = clean-js-pkg
+	url = git@github.com:edtoken/clean-js-pkg.git
+[submodule "packages/clean-typescript-pkg"]
+	path = packages/clean-typescript-pkg
+	url = git@github.com:edtoken/clean-typescript-pkg.git

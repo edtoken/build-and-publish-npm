@@ -1,0 +1,19 @@
+{
+  "name": "build-and-publish-npm",
+  "version": "1.0.0",
+  "description": "> Short example How to Build and Publish your NPM package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edtoken/build-and-publish-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edtoken/build-and-publish-npm/issues"
+  },
+  "homepage": "https://github.com/edtoken/build-and-publish-npm#readme"
+}

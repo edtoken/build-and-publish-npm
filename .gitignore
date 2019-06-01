@@ -1,0 +1,10 @@
+.idea
+.vscode
+.cache
+.env
+.nyc_output
+
+node_modules
+
+coverage/
+dist/
